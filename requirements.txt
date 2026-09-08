@@ -1,0 +1,9 @@
+openai
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+pytest
+langgraph
+
